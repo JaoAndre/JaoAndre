@@ -1,5 +1,5 @@
-<h1 align="center">Hello! I'm João André</h1>
-<h3 align="center">I'm a Front-end and Back-end developer, I learn things every day, to improve my experiences.<br><br></h3>
+<h3 align="center">Hello! I'm João André</h3>
+<p align="center">I'm a Front-end and Back-end developer, I learn things every day, to improve my experiences.<br><br></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
