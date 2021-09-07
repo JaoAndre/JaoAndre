@@ -1,1 +1,3 @@
-![Metrics](https://metrics.lecoq.io/JaoAndre?template=classic&introduction=1&languages=1&stars=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&config.timezone=America%2FSao_Paulo&config.display=large)
+![Frame 1](https://user-images.githubusercontent.com/59805284/132395849-0132f2b5-5861-4b93-ae0c-dae1f38dc926.png)
+
+<h4 align="center"><samp>Olá, bem-vindo ao meu Github! Sou um Desenvolvedor Front-end.<br>Estudando e ampliando conhecimentos em Front-End e Frameworks.<samp></h4>
